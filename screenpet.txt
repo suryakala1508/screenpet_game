@@ -1,0 +1,42 @@
+# 🐾 Screen Pet Game 🎮
+
+A simple and interactive screen pet game built using **Python**. In this game, you can interact with a virtual pet on your screen, take care of it, and watch it respond to your actions.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3**  
+- **Tkinter** for graphical user interface (GUI)  
+- **Pillow** for image handling  
+- **Random** for random pet responses
+
+---
+
+## 🎮 Features
+
+- 🐶 Virtual pet with animations and responses  
+- 🏠 Customizable environment for the pet  
+- 🧑‍🤝‍🧑 Interactive buttons for feeding, playing, and caring for the pet  
+- 🕹️ Real-time updates of the pet's status
+
+---
+
+## 🧪 How to Play
+
+1. Run the game by executing the Python script `screen_pet_game.py`.
+2. Use buttons like **Feed Pet**, **Play with Pet**, and **Check Status** to interact with your virtual pet.
+3. Watch the pet react to your actions in real-time!
+
+---
+
+## 🔧 Setup Instructions
+
+### 📥 Requirements
+
+- **Python 3.x**  
+- **Tkinter** (pre-installed with Python)  
+- **Pillow** (for image handling):
+
+```bash
+pip install pillow
